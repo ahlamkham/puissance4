@@ -11,7 +11,7 @@ namespace puissance4
         static void Main(string[] args)
         {
             Console.WriteLine("==================================================================");
-            Console.WriteLine("=============== WELCOME IN THE GAME OF CONNECT4 ==================");
+            Console.WriteLine("============================ PlayPower4 ==========================");
             Console.WriteLine("==================================================================");
 
 
